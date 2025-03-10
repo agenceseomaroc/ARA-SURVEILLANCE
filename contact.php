@@ -18,17 +18,17 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 	<!-- Title -->
-	<title>Contactez-nous Société de Nettoyage à Casablanca | ARA NETTOYAGE</title>
+	<title>Contactez-nous Société de caméra surveillance à Casablanca | ARA SURVEILLANCE</title>
 	<meta name="keywords"
-		content="Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, Société de nettoyage et Cristallisation marbre à Casablanca Maroc, Société de nettoyage de la ventilation mécanique contrôlée (VMC) à Casablanca Maroc, Société de nettoyage et ponçage du parquet à Casablanca Maroc, Société de nettoyage et dégraissage des hottes à Casablanca Maroc, Société de nettoyage et l'entretien des sols à Casablanca Maroc, 
- travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, traitement des piscines à Casablanca, Casablanca Maroc, Société de nettoyage à Casablanca Bouskoura sidi maarouf zenith californie,société de nettoyage casablanca maarif,société nettoyage casablanca sidi maarouf,societe nettoyage casablanca ghandi,societe-de-nettoyage-a-casablanca,societe de nettoyage a casablanca,nettoyage à casablanca,nettoyage appartement Casablancafemme-ménage,femme-de-ménage,femme de menage,lavage tapis casablanca,nettoyage casablanca,service de nettoyage casablanca,services de ménage à casablanca,travaux de nettoyage casablanca, entreprise de nettoyage casablanca, femme de ménage casablanca, nettoyage maison casablanca,nettoyage appartement casablanca, nettoyage bureau casablanca,nettoyage villa casablanca, nettoyage industriel casablanca,nettoyage fin de chantier à casablanca, nettoyage après travaux, travaux multiservices à casablanca, services facilités casablanca,travaux divers casablanca, installation caméra surveillance à casablanca,femmes de ménage à Casablanca,traitement des piscines à casablanca,casablanca Maroc, Nettoyage professionnel, Prestations de nettoyage, Remise en état, Lavage, Propreté, Sols, Désinfection, Locaux professionnels,Vitrerie, Nettoyage des sols, Lavage de vitres, Travaux de nettoyage,Nettoyage casablanca,Nettoyage casablanca-maroc Décapage,service de nettoyage,Nettoyage,Société de nettoyage à Casablanca, société de nettoyage Casablanca, société nettoyage Casablanca, nettoyage à Casablanca, nettoyage Casablanca, service de nettoyage Casablanca, services de ménage à Casablanca, travaux de nettoyage casablanca, entreprise de nettoyage Casablanca, femme de ménage Casablanca, nettoyage maison Casablanca, nettoyage appartement Casablanca, nettoyage bureau Casablanca, nettoyage villa Casablanca, nettoyage industriel Casablanca, nettoyage fin de chantier à Casablanca, nettoyage après travaux, nettoyage des vitres, nettoyage du parquet, cristallisation de marbre, nettoyage de moquette, et nettoyage de fin chantier à Casablanca, traitement des piscines à Casablanca, Casablanca Maroc.">
+		content="Société de caméra surveillance à Casablanca, société de caméra surveillance Casablanca, société caméra surveillance Casablanca, caméra surveillance à Casablanca, caméra surveillance Casablanca, service de caméra surveillance Casablanca, services de ménage à Casablanca, travaux de caméra surveillance casablanca, entreprise de caméra surveillance Casablanca, femme de ménage Casablanca, caméra surveillance maison Casablanca, caméra surveillance appartement Casablanca, caméra surveillance bureau Casablanca, caméra surveillance villa Casablanca, caméra surveillance industriel Casablanca, caméra surveillance fin de chantier à Casablanca, caméra surveillance après travaux, Société de caméra surveillance et Cristallisation marbre à Casablanca Maroc, Société de caméra surveillance de la ventilation mécanique contrôlée (VMC) à Casablanca Maroc, Société de caméra surveillance et ponçage du parquet à Casablanca Maroc, Société de caméra surveillance et dégraissage des hottes à Casablanca Maroc, Société de caméra surveillance et l'entretien des sols à Casablanca Maroc, 
+ travaux multiservices à Casablanca, services facilités Casablanca, travaux divers Casablanca, traitement des piscines à Casablanca, Casablanca Maroc, Société de caméra surveillance à Casablanca Bouskoura sidi maarouf zenith californie,société de caméra surveillance casablanca maarif,société caméra surveillance casablanca sidi maarouf,societe caméra surveillance casablanca ghandi,societe-de-caméra surveillance-a-casablanca,societe de caméra surveillance a casablanca,caméra surveillance à casablanca,caméra surveillance appartement Casablancafemme-ménage,femme-de-ménage,femme de menage,lavage tapis casablanca,caméra surveillance casablanca,service de caméra surveillance casablanca,services de ménage à casablanca,travaux de caméra surveillance casablanca, entreprise de caméra surveillance casablanca, femme de ménage casablanca, caméra surveillance maison casablanca,caméra surveillance appartement casablanca, caméra surveillance bureau casablanca,caméra surveillance villa casablanca, caméra surveillance industriel casablanca,caméra surveillance fin de chantier à casablanca, caméra surveillance après travaux, travaux multiservices à casablanca, services facilités casablanca,travaux divers casablanca, installation caméra surveillance à casablanca,femmes de ménage à Casablanca,traitement des piscines à casablanca,casablanca Maroc, caméra surveillance professionnel, Prestations de caméra surveillance, Remise en état, Lavage, Propreté, Sols, Désinfection, Locaux professionnels,Vitrerie, caméra surveillance des sols, Lavage de vitres, Travaux de caméra surveillance,caméra surveillance casablanca,caméra surveillance casablanca-maroc Décapage,service de caméra surveillance,caméra surveillance,Société de caméra surveillance à Casablanca, société de caméra surveillance Casablanca, société caméra surveillance Casablanca, caméra surveillance à Casablanca, caméra surveillance Casablanca, service de caméra surveillance Casablanca, services de ménage à Casablanca, travaux de caméra surveillance casablanca, entreprise de caméra surveillance Casablanca, femme de ménage Casablanca, caméra surveillance maison Casablanca, caméra surveillance appartement Casablanca, caméra surveillance bureau Casablanca, caméra surveillance villa Casablanca, caméra surveillance industriel Casablanca, caméra surveillance fin de chantier à Casablanca, caméra surveillance après travaux, caméra surveillance des vitres, caméra surveillance du parquet, cristallisation de marbre, caméra surveillance de moquette, et caméra surveillance de fin chantier à Casablanca, traitement des piscines à Casablanca, Casablanca Maroc.">
 	<meta name="description"
-		content="Contactez ARA NETTOYAGE pour votre nettoyage, Pour nous adresser vos remarques, questions et demandes de service, veuillez nous contactez">
-	<meta property="og:title" content="Contactez-nous Société de Nettoyage à Casablanca Maroc" />
+		content="Contactez ARA SURVEILLANCE pour votre caméra surveillance, Pour nous adresser vos remarques, questions et demandes de service, veuillez nous contactez">
+	<meta property="og:title" content="Contactez-nous Société de caméra surveillance à Casablanca Maroc" />
 	<meta property="og:description"
-		content="Contactez ARA NETTOYAGE pour votre nettoyage, Pour nous adresser vos remarques, questions et demandes de service, veuillez nous contactez" />
+		content="Contactez ARA SURVEILLANCE pour votre caméra surveillance, Pour nous adresser vos remarques, questions et demandes de service, veuillez nous contactez" />
 	<meta property="og:type" content="The service Website" />
-	<meta property="og:url" content="https://nettoyage-casablanca.net" />
+	<meta property="og:url" content="index.html" />
 	<meta property="og:image" content="src/about.jpg" />
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;500;600;700;800;900&amp;display=swap"
@@ -68,55 +68,55 @@
 
 <body>
 	<div style="display:none;visibility:hidden">
-		<h2>société de nettoyage à casablanca</h2>
-		<h2>societe de nettoyage a casablanca</h2>
-		<h2>societe de nettoyage casablanca</h2>
-		<h2>societe nettoyage casablanca</h2>
-		<h2>société de nettoyage</h2>
-		<h2>société de nettoyage</h2>
-		<h2>Nettoyage casablanca</h2>
-		<h2>Nettoyage-casablanca</h2>
-		<h2>nettoyage</h2>
+		<h2>société de caméra surveillance à casablanca</h2>
+		<h2>societe de caméra surveillance a casablanca</h2>
+		<h2>societe de caméra surveillance casablanca</h2>
+		<h2>societe caméra surveillance casablanca</h2>
+		<h2>société de caméra surveillance</h2>
+		<h2>société de caméra surveillance</h2>
+		<h2>caméra surveillance casablanca</h2>
+		<h2>caméra surveillance-casablanca</h2>
+		<h2>caméra surveillance</h2>
 		<h2>femme de menage</h2>
 		<h2>femme de ménage</h2>
 		<h2>femme de ménage casablanca</h2>
-		<h2>Nettoyage à casablanca</h2>
+		<h2>caméra surveillance à casablanca</h2>
 
-		<li>société de nettoyage à Bouskoura</li>
-		<li>societe de nettoyage a Bouskoura</li>
-		<li>societe de nettoyage Bouskoura</li>
-		<li>societe nettoyage Bouskoura</li>
-		<li>Nettoyage Bouskoura</li>
-		<li>Nettoyage-Bouskoura</li>
+		<li>société de caméra surveillance à Bouskoura</li>
+		<li>societe de caméra surveillance a Bouskoura</li>
+		<li>societe de caméra surveillance Bouskoura</li>
+		<li>societe caméra surveillance Bouskoura</li>
+		<li>caméra surveillance Bouskoura</li>
+		<li>caméra surveillance-Bouskoura</li>
 		<li>femme de ménage Bouskoura</li>
-		<li>Nettoyage à Bouskoura</li>
+		<li>caméra surveillance à Bouskoura</li>
 
-		<li>société de nettoyage à sidi maarouf</li>
-		<li>societe de nettoyage a sidi maarouf</li>
-		<li>societe de nettoyage sidi maarouf</li>
-		<li>societe nettoyage sidi maarouf</li>
-		<li>Nettoyage sidi maarouf</li>
-		<li>Nettoyage-sidi maarouf</li>
+		<li>société de caméra surveillance à sidi maarouf</li>
+		<li>societe de caméra surveillance a sidi maarouf</li>
+		<li>societe de caméra surveillance sidi maarouf</li>
+		<li>societe caméra surveillance sidi maarouf</li>
+		<li>caméra surveillance sidi maarouf</li>
+		<li>caméra surveillance-sidi maarouf</li>
 		<li>femme de ménage sidi maarouf</li>
-		<li>Nettoyage à sidi maarouf</li>
+		<li>caméra surveillance à sidi maarouf</li>
 
-		<li>société de nettoyage à californie</li>
-		<li>societe de nettoyage a californie</li>
-		<li>societe de nettoyage californie</li>
-		<li>societe nettoyage californie</li>
-		<li>Nettoyage californie</li>
-		<li>Nettoyage-californie</li>
+		<li>société de caméra surveillance à californie</li>
+		<li>societe de caméra surveillance a californie</li>
+		<li>societe de caméra surveillance californie</li>
+		<li>societe caméra surveillance californie</li>
+		<li>caméra surveillance californie</li>
+		<li>caméra surveillance-californie</li>
 		<li>femme de ménage californie</li>
-		<li>Nettoyage à californie</li>
+		<li>caméra surveillance à californie</li>
 
-		<li>société de nettoyage à zenith</li>
-		<li>societe de nettoyage a zenith</li>
-		<li>societe de nettoyage zenith</li>
-		<li>societe nettoyage zenith</li>
-		<li>Nettoyage zenith</li>
-		<li>Nettoyage-zenith</li>
+		<li>société de caméra surveillance à zenith</li>
+		<li>societe de caméra surveillance a zenith</li>
+		<li>societe de caméra surveillance zenith</li>
+		<li>societe caméra surveillance zenith</li>
+		<li>caméra surveillance zenith</li>
+		<li>caméra surveillance-zenith</li>
 		<li>femme de ménage zenith</li>
-		<li>Nettoyage à zenith</li>
+		<li>caméra surveillance à zenith</li>
 	</div>
 	<!-- Start Navbar Area -->
 	<div class="navbar-area">
@@ -125,9 +125,9 @@
 			<div class="row">
 					<div class="">
 						<div class="call-to-action">
-							<p><i class="fa-solid fa-location-dot"></i>Société de Nettoyage Casablanca Maroc</p>
+							<p><i class="fa-solid fa-location-dot"></i>Société de caméra surveillance Casablanca Maroc</p>
 							<p><i class="fa-solid fa-envelope"></i> <a
-									href="mailto:ara.nettoyage.maroc@gmail.com">ara.nettoyage.maroc@gmail.com</a>
+									href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a>
 							</p>
 							<p><i class="fa-solid fa-mobile"></i><a href="tel:+212666282962">+212 666 282 962</a>
 							</p class="fa-solid fa-location-dot">
@@ -151,7 +151,7 @@
 			<div class="container">
 				<div class="procleaning-responsive-menu">
 					<div class="logo">
-						<a href="https://nettoyage-casablanca.net"> <img src="images/logo-black.png" alt="logo"
+						<a href="index.html"> <img src="images/logo-black.png" alt="logo"
 								style="position:relative"> </a>
 					</div>
 				</div>
@@ -160,16 +160,16 @@
 		<div class="procleaning-nav procleaning-fixed-nav">
 			<div class="container">
 				<nav class="navbar navbar-expand-md navbar-light">
-					<a class="navbar-brand" href="https://nettoyage-casablanca.net"> <img src="images/logo-black.png"
+					<a class="navbar-brand" href="index.html"> <img src="images/logo-black.png"
 							alt="logo"> </a>
 					<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 						<ul class="navbar-nav">
-							<li class="nav-item"> <a href="https://nettoyage-casablanca.net"
+							<li class="nav-item"> <a href="index.html"
 									class="nav-link">Accueil</a>
 							</li>
 							<li class="nav-item"> <a>A PROPOS <i class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"> <a href="nettoyage-casablanca.html" class="nav-link">Nettoyage
+									<li class="nav-item"> <a href="caméra surveillance-casablanca.html" class="nav-link">caméra surveillance
 											Casablanca</a> </li>
 									<li class="nav-item"> <a href="Nos-Valeurs-Et-Engagements.html" class="nav-link">Nos
 											valeurs et engagements</a> </li>
@@ -177,80 +177,80 @@
 											nous choisir</a> </li>
 								</ul>
 							</li>
-							<li class="nav-item"> <a href="nettoyage-particuliers.html"
+							<li class="nav-item"> <a href="caméra surveillance-particuliers.html"
 									class="nav-link">PARTICULIERS</i></a></li>
-							<li class="nav-item"> <a href="nettoyage-professionnel-casablanca.html"
+							<li class="nav-item"> <a href="caméra surveillance-professionnel-casablanca.html"
 									class="nav-link">PROFESSIONNELS </a></li>
 							<li class="nav-item"> <a href="services.html" class="nav-link">SERVICES <i
 										class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a href="nettoyage-maisons-casablanca.html"
-											class="nav-link">Nettoyage Maisons</a></li>
-									<li class="nav-item"><a href="nettoyage-appartements-casablanca.html"
-											class="nav-link">Nettoyage Appartements</a></li>
-									<li class="nav-item"><a href="nettoyage-bureaux-casablanca.html"
-											class="nav-link">Nettoyage de Bureaux</a></li>
-									<li class="nav-item"><a href="nettoyage-locaux-casablanca.html"
-											class="nav-link">Nettoyage Locaux</a></li>
-									<li class="nav-item"><a href="nettoyage-vitres-casablanca.html"
-											class="nav-link">Nettoyage vitres</a></li>
-									<li class="nav-item"><a href="nettoyage-villas-casablanca.html"
-											class="nav-link">Nettoyage Villas</a></li>
-									<li class="nav-item"><a href="nettoyage-restaurants-casablanca.html"
-											class="nav-link">Nettoyage restaurants</a></li>
-									<li class="nav-item"><a href="nettoyage-fin-chantier-casablanca.html"
-											class="nav-link">Nettoyage fin de chantier</a></li>
-									<li class="nav-item"><a href="nettoyage-apres-travaux-casablanca.html"
-											class="nav-link">Nettoyage après travaux</a></li>
-									<li class="nav-item"><a href="nettoyage-hotels-casablanca.html"
-											class="nav-link">Nettoyage Hôtels</a></li>
-									<li class="nav-item"><a href="nettoyage-moquettes-casablanca.html"
-											class="nav-link">Nettoyage moquettes</a></li>
-									<li class="nav-item"><a href="nettoyage-parquet-casablanca.html"
-											class="nav-link">Nettoyage parquets</a></li>
-									<li class="nav-item"><a href="nettoyage-grand-nettoyage-casablanca.html"
-											class="nav-link">Grand Nettoyage</a></li>
+									<li class="nav-item"><a href="caméra surveillance-maisons-casablanca.html"
+											class="nav-link">caméra surveillance Maisons</a></li>
+									<li class="nav-item"><a href="caméra surveillance-appartements-casablanca.html"
+											class="nav-link">caméra surveillance Appartements</a></li>
+									<li class="nav-item"><a href="caméra surveillance-bureaux-casablanca.html"
+											class="nav-link">caméra surveillance de Bureaux</a></li>
+									<li class="nav-item"><a href="caméra surveillance-locaux-casablanca.html"
+											class="nav-link">caméra surveillance Locaux</a></li>
+									<li class="nav-item"><a href="caméra surveillance-vitres-casablanca.html"
+											class="nav-link">caméra surveillance vitres</a></li>
+									<li class="nav-item"><a href="caméra surveillance-villas-casablanca.html"
+											class="nav-link">caméra surveillance Villas</a></li>
+									<li class="nav-item"><a href="caméra surveillance-restaurants-casablanca.html"
+											class="nav-link">caméra surveillance restaurants</a></li>
+									<li class="nav-item"><a href="caméra surveillance-fin-chantier-casablanca.html"
+											class="nav-link">caméra surveillance fin de chantier</a></li>
+									<li class="nav-item"><a href="caméra surveillance-apres-travaux-casablanca.html"
+											class="nav-link">caméra surveillance après travaux</a></li>
+									<li class="nav-item"><a href="caméra surveillance-hotels-casablanca.html"
+											class="nav-link">caméra surveillance Hôtels</a></li>
+									<li class="nav-item"><a href="caméra surveillance-moquettes-casablanca.html"
+											class="nav-link">caméra surveillance moquettes</a></li>
+									<li class="nav-item"><a href="caméra surveillance-parquet-casablanca.html"
+											class="nav-link">caméra surveillance parquets</a></li>
+									<li class="nav-item"><a href="caméra surveillance-grand-caméra surveillance-casablanca.html"
+											class="nav-link">Grand caméra surveillance</a></li>
 								</ul>
 							<li class="nav-item"> <a href="services.html" class="nav-link">NOS ACTIVITES <i
 										class="fas fa-chevron-down"></i></a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a href="societe-nettoyage-Assainissement-casablanca.html"
+									<li class="nav-item"><a href="societe-caméra surveillance-Assainissement-casablanca.html"
 											class="nav-link">Assainissement</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-entretien-sol-casablanca.html"
+									<li class="nav-item"><a href="societe-caméra surveillance-entretien-sol-casablanca.html"
 											class="nav-link">Ponçage et Cristallisations sols</a></li>
 									<li class="nav-item"><a
-											href="societe-nettoyage-poncage-cristallisation-marbres-casablanca.html"
+											href="societe-caméra surveillance-poncage-cristallisation-marbres-casablanca.html"
 											class="nav-link">Ponçage et Cristallisations marbres</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-poncage-parquet-casablanca.html"
+									<li class="nav-item"><a href="societe-caméra surveillance-poncage-parquet-casablanca.html"
 											class="nav-link">Ponçage vitrification parquets</a></li>
 									<li class="nav-item"><a
-											href="societe-nettoyage-scolaire-prescolaires-casablanca.html"
-											class="nav-link">Nettoyage Scolaire-Préscolaire</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-copropriete-casablanca.html"
-											class="nav-link">Nettoyage copropriété</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-centres-commerciaux-casablanca.html"
-											class="nav-link">Nettoyage centres commerciaux</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-femme-menage.html"
+											href="societe-caméra surveillance-scolaire-prescolaires-casablanca.html"
+											class="nav-link">caméra surveillance Scolaire-Préscolaire</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-copropriete-casablanca.html"
+											class="nav-link">caméra surveillance copropriété</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-centres-commerciaux-casablanca.html"
+											class="nav-link">caméra surveillance centres commerciaux</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-femme-menage.html"
 											class="nav-link">Femmes de ménage</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-tapis-casablanca.html"
-											class="nav-link">Nettoyage et entretien tapis</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-traitement-piscines-casablanca.html"
+									<li class="nav-item"><a href="societe-caméra surveillance-tapis-casablanca.html"
+											class="nav-link">caméra surveillance et entretien tapis</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-traitement-piscines-casablanca.html"
 											class="nav-link">Traitement des piscines</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-moquette-casablanca-maroc.html"
+									<li class="nav-item"><a href="societe-caméra surveillance-moquette-casablanca-maroc.html"
 											class="nav-link">Entretien moquettes</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-canapes-casablanca.html"
-											class="nav-link">Nettoyage de canapés</a></li>
-									<li class="nav-item"><a href="societe-nettoyage-chaises-casablanca.html"
-											class="nav-link">Nettoyage des chaises</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-canapes-casablanca.html"
+											class="nav-link">caméra surveillance de canapés</a></li>
+									<li class="nav-item"><a href="societe-caméra surveillance-chaises-casablanca.html"
+											class="nav-link">caméra surveillance des chaises</a></li>
 									<li class="nav-item"><a
-											href="societe-nettoyage-cristallisation-carrelage-casablanca.html"
-											class="nav-link">Nettoyage carrelage</a></li>
+											href="societe-caméra surveillance-cristallisation-carrelage-casablanca.html"
+											class="nav-link">caméra surveillance carrelage</a></li>
 								</ul>
 
 							</li>
 
 							</li>
-							<li class="nav-item"> <a href="articles-societe-nettoyage.html" class="nav-link">BLOG</a>
+							<li class="nav-item"> <a href="articles-societe-caméra surveillance.html" class="nav-link">BLOG</a>
 							</li>
 							</li>
 							<li class="nav-item"> <a href="contact.php" class="nav-link">CONTACT</a>
@@ -272,7 +272,7 @@
 					<div class="page-title-content">
 						<h1 style="color:white">Contact</h1>
 						<ul>
-							<li><a href="https://nettoyage-casablanca.net">Accueil</a>
+							<li><a href="index.html">Accueil</a>
 							</li>
 							<li>Contact</li>
 						</ul>
@@ -288,7 +288,7 @@
 					<h3 class="h2 page-title-content mt-3 border-bottom pb-2">DEVIS GRATUIT</h3>
 					<p>
 						Pour plus d'informations, un devis gratuit, une question sur nos compétences ou sur nos
-						service de nettoyage à casablanca à Casablanca et
+						service de caméra surveillance à casablanca à Casablanca et
 						partout au Maroc, n'hésitez pas à nous contacter, notre équipe est à votre disposition.
 
 						Nous prendrons contact avec vous dès réception de votre message.
@@ -303,7 +303,7 @@
     $servername = 'localhost';
     $username = 'root';
     $password = '1234';
-    $dbname = 'nettoyagecasabla_winbest_climatisation';
+    $dbname = 'caméra surveillancecasabla_winbest_climatisation';
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
     if (!$conn) {
@@ -622,9 +622,9 @@ if (isset($_POST['sendEmailSubBtn'])) {
                 $vltyp = $rows['LibtypeLocal'];
             }
             /***************send email**********************/
-            $to = 'admin@nettoyage-casablanca-maroc.com';
-            $subject = 'DEMANDE DE CONTACT ARA NETTOYAGE';
-            $headers = 'From: NSS NETTOYAGE';
+            $to = 'admin@caméra surveillance-casablanca-maroc.com';
+            $subject = 'DEMANDE DE CONTACT ARA SURVEILLANCE';
+            $headers = 'From: NSS caméra surveillance';
             $cntsendmail = "
                                     Name          : $Name
                                     Ville         : $vlVille
@@ -687,7 +687,7 @@ function test_input($data)
 								<p>
 									<i class="fas fa-envelope mr-2"></i>
 									Email:<a
-										href="mailto:ara.nettoyage.maroc@gmail.com">ara.nettoyage.maroc@gmail.com</a>
+										href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a>
 								</p>
 							</li>
 						</ul>
@@ -703,30 +703,30 @@ function test_input($data)
 						</p>
 					</div>
 					<div class="content-box-info" style="text-align: left;">
-						<h4 class=" hstyle mt-2 border-bottom border-top pt-3 pb-2 mr-2">Entreprise de nettoyage à
+						<h4 class=" hstyle mt-2 border-bottom border-top pt-3 pb-2 mr-2">Entreprise de caméra surveillance à
 							casablanca</h4>
 
 						<ul class="list-unstyled">
-						<a href="https://nettoyage-casablanca.net/"><li><i class="far fa-check-circle mr-2"></i>societe de nettoyage casablanca</li></a>
-						<a href="nettoyage-bureaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage bureau à Casablanca</li></a>
-						<a href="nettoyage-fin-chantier-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage fin de chantier à Casablanca</li></a>
-						<a href="nettoyage-appartements-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage appartements à Casablanca</li></a>
-						<a href="nettoyage-grand-nettoyage-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>grand nettoyage à Casablanca</li></a>
-						<a href="nettoyage-hotels-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage hotels à Casablanca</li></a>
-						<a href="nettoyage-immeubles-residences-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage immeubles et residences à Casablanca</li></a>
-						<a href="nettoyage-industriel-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage industriel à Casablanca</li></a>
-						<a href="nettoyage-locaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage locaux à Casablanca</li></a>
-						<a href="nettoyage-moquettes-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage moquettes à Casablanca</li></a>
-						<a href="societe-nettoyage-tapis-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage tapis à Casablanca</li></a>
-						<a href="societe-nettoyage-poncage-cristallisation-marbres-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage et ponçage à Casablanca</li></a>
-						<a href="societe-nettoyage-femme-menage.html"><li><i class="far fa-check-circle mr-2"></i>femme de menage à Casablanca</li></a>
-						<a href="societe-nettoyage-centres-commerciaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage centre commercial à Casablanca</li></a>
-						<a href="societe-nettoyage-entretien-sol-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage et entretien de sol à Casablanca</li></a>
-						<a href="societe-nettoyage-canapes-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage canapés à Casablanca</li></a>
-						<a href="conseil-nettoyage-villas.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage villas à Casablanca</li></a>
-						<a href="societe-nettoyage-cristallisation-carrelage-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage cristallisation carrelage à Casablanca</li></a>
-						<a href="societe-nettoyage-scolaire-prescolaires-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage etablissement scolaires à Casablanca</li></a>
-						<a href="societe-nettoyage-traitement-piscines-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>nettoyage et traitement des piscines à Casablanca</li></a>
+						<a href="index.html/"><li><i class="far fa-check-circle mr-2"></i>societe de caméra surveillance casablanca</li></a>
+						<a href="caméra surveillance-bureaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance bureau à Casablanca</li></a>
+						<a href="caméra surveillance-fin-chantier-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance fin de chantier à Casablanca</li></a>
+						<a href="caméra surveillance-appartements-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance appartements à Casablanca</li></a>
+						<a href="caméra surveillance-grand-caméra surveillance-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>grand caméra surveillance à Casablanca</li></a>
+						<a href="caméra surveillance-hotels-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance hotels à Casablanca</li></a>
+						<a href="caméra surveillance-immeubles-residences-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance immeubles et residences à Casablanca</li></a>
+						<a href="caméra surveillance-industriel-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance industriel à Casablanca</li></a>
+						<a href="caméra surveillance-locaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance locaux à Casablanca</li></a>
+						<a href="caméra surveillance-moquettes-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance moquettes à Casablanca</li></a>
+						<a href="societe-caméra surveillance-tapis-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance tapis à Casablanca</li></a>
+						<a href="societe-caméra surveillance-poncage-cristallisation-marbres-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance et ponçage à Casablanca</li></a>
+						<a href="societe-caméra surveillance-femme-menage.html"><li><i class="far fa-check-circle mr-2"></i>femme de menage à Casablanca</li></a>
+						<a href="societe-caméra surveillance-centres-commerciaux-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance centre commercial à Casablanca</li></a>
+						<a href="societe-caméra surveillance-entretien-sol-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance et entretien de sol à Casablanca</li></a>
+						<a href="societe-caméra surveillance-canapes-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance canapés à Casablanca</li></a>
+						<a href="conseil-caméra surveillance-villas.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance villas à Casablanca</li></a>
+						<a href="societe-caméra surveillance-cristallisation-carrelage-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance cristallisation carrelage à Casablanca</li></a>
+						<a href="societe-caméra surveillance-scolaire-prescolaires-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance etablissement scolaires à Casablanca</li></a>
+						<a href="societe-caméra surveillance-traitement-piscines-casablanca.html"><li><i class="far fa-check-circle mr-2"></i>caméra surveillance et traitement des piscines à Casablanca</li></a>
 							
 						</ul>
 
@@ -751,12 +751,12 @@ function test_input($data)
 	<div class="row" id="contacts">
 		<div class="col-sm-12">
 			<ul class="contact-list">
-				<li><a href="mailto:ara.nettoyage.maroc@gmail.com"><img src="imagesBlog/courrier.webp" width="auto"
-							height="auto" alt="Demander un devis de ARA NETTOYAGE"></a></li>
+				<li><a href="mailto:ara.camera surveillance.maroc@gmail.com"><img src="imagesBlog/courrier.webp" width="auto"
+							height="auto" alt="Demander un devis de ARA SURVEILLANCE"></a></li>
 				<li><a class="text-dark" href="tel:+212666282962"><img src="imagesBlog/phone-call.webp" width="auto"
-							height="auto" alt="ARA NETTOYAGE TEL"></a></li>
+							height="auto" alt="ARA SURVEILLANCE TEL"></a></li>
 				<li><a class="text-dark" href="https://wa.me/212666282962"><img src="imagesBlog/whatsapp icone.png"
-							width="auto" height="auto" alt="WhatsApp ARA NETTOYAGE"></a></li>
+							width="auto" height="auto" alt="WhatsApp ARA SURVEILLANCE"></a></li>
 			</ul>
 		</div>
 	</div>
@@ -768,28 +768,28 @@ function test_input($data)
 			<div class="row footer-box-item">
 				<div class="col-sm-4">
 					<h3 class="footer-about footer-list">NOS SERVICES</strong></h3>
-					<p>-<a href="nettoyage-particuliers.html"> Nettoyage pour les particuliers</a></p>
-					<p>- <a href="nettoyage-professionnel-casablanca.html">Nettoyage pour les professionnels</a></p>
-					<p>- <a href="nettoyage-fin-chantier-casablanca.html">Nettoyage fin de chantier Casablanca</a></p>
-					<p>-<a href="nettoyage-industriel-casablanca.html"> Nettoyage industriel Casablanca</a></p>
-					<p>-<a href="nettoyage-moquettes-casablanca.html"> Nettoyage de moquette Casablanca</a></p>
-					<p>-<a href="nettoyage-parquet-casablanca.html"> Nettoyage du parquet Casablanca</a></p>
-					<p>-<a href="nettoyage-vitres-casablanca.html"> Nettoyage des vitres Casablanca</a></p>
-					<p>-<a href="societe-nettoyage-poncage-cristallisation-marbres-casablanca.html"> Cristallisation du
+					<p>-<a href="caméra surveillance-particuliers.html"> caméra surveillance pour les particuliers</a></p>
+					<p>- <a href="caméra surveillance-professionnel-casablanca.html">caméra surveillance pour les professionnels</a></p>
+					<p>- <a href="caméra surveillance-fin-chantier-casablanca.html">caméra surveillance fin de chantier Casablanca</a></p>
+					<p>-<a href="caméra surveillance-industriel-casablanca.html"> caméra surveillance industriel Casablanca</a></p>
+					<p>-<a href="caméra surveillance-moquettes-casablanca.html"> caméra surveillance de moquette Casablanca</a></p>
+					<p>-<a href="caméra surveillance-parquet-casablanca.html"> caméra surveillance du parquet Casablanca</a></p>
+					<p>-<a href="caméra surveillance-vitres-casablanca.html"> caméra surveillance des vitres Casablanca</a></p>
+					<p>-<a href="societe-caméra surveillance-poncage-cristallisation-marbres-casablanca.html"> Cristallisation du
 							marbre Casablanca </a></p>
 				</div>
 				<div class="col-sm-4">
 					<div class="newsletter-signup">
-						<h3 class="title m_title">Société de nettoyage Casablanca</strong></h3>
-						<p> Notre société de nettoyage sur Casablanca attache une grande importance à l'image de vos
-							locaux et un vrai savoir-faire dans le secteur du nettoyage et le ménage pour cela nous vous
+						<h3 class="title m_title">Société de caméra surveillance Casablanca</strong></h3>
+						<p> Notre société de caméra surveillance sur Casablanca attache une grande importance à l'image de vos
+							locaux et un vrai savoir-faire dans le secteur du caméra surveillance et le ménage pour cela nous vous
 							offrons des services de qualité et des prix attractifs, par un nombre de sites partout au
 							Maroc.</p>
 						<br>
 						<h3 class="title m_title">Notre site web</strong></h3>
-						<p>-<a href="https://nettoyage-casablanca.net"> Accueil</a></p>
+						<p>-<a href="index.html"> Accueil</a></p>
 						<p>-<a href="demandez-devis.php"> Devis en ligne</a></p>
-						<p>-<a href="contact.php"> Produits de Nettoyage</a></p>
+						<p>-<a href="contact.php"> Produits de caméra surveillance</a></p>
 						<div id="notification_container"></div>
 					</div>
 				</div>
@@ -802,21 +802,21 @@ function test_input($data)
 							
 							Adresse 1 : 3ème étage, 10 Bd de la Liberté, Casablanca 20000. </strong><br>
 							
-							Email: <a href="mailto:ara.nettoyage.maroc@gmail.com">ara.nettoyage.maroc@gmail.com</a> </strong><br>
+							Email: <a href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a> </strong><br>
 							<br>
-							<a href="societe-nettoyage-entretien-sol-casablanca.html">Nettoyage de Sols </a>-
-							<a href="societe-nettoyage-poncage-cristallisation-marbres-casablanca.html">Cristallisation
+							<a href="societe-caméra surveillance-entretien-sol-casablanca.html">caméra surveillance de Sols </a>-
+							<a href="societe-caméra surveillance-poncage-cristallisation-marbres-casablanca.html">Cristallisation
 								du Marbre </a>-
-							<a href="societe-nettoyage-tapis-casablanca.html">Nettoyage des Tapis </a>-
-							<a href="societe-nettoyage-canapes-casablanca.html">Nettoyage des Canapés </a>-
-							<a href="societe-nettoyage-chaises-casablanca.html">Nettoyage des chaises </a>-
-							<a href="societe-nettoyage-cristallisation-carrelage-casablanca.html">Nettoyage de Carrelage
+							<a href="societe-caméra surveillance-tapis-casablanca.html">caméra surveillance des Tapis </a>-
+							<a href="societe-caméra surveillance-canapes-casablanca.html">caméra surveillance des Canapés </a>-
+							<a href="societe-caméra surveillance-chaises-casablanca.html">caméra surveillance des chaises </a>-
+							<a href="societe-caméra surveillance-cristallisation-carrelage-casablanca.html">caméra surveillance de Carrelage
 							</a>-
-							<!--<a href="societe-nettoyage-cristallisation-mosaique-casablanca.html">Nettoyage de mosaïque</a>
+							<!--<a href="societe-caméra surveillance-cristallisation-mosaique-casablanca.html">caméra surveillance de mosaïque</a>
 							<a href="">Hottes et Système d'extraction</a>-->
 							<!--<a href="">Ventilation Mécanique Contrôlée -  </a>-->
-							<a href="societe-nettoyage-femme-menage.html">Femme de ménage </a>-
-							<a href="nettoyage-bureaux-casablanca.html">Nettoyage Bureaux</a>
+							<a href="societe-caméra surveillance-femme-menage.html">Femme de ménage </a>-
+							<a href="caméra surveillance-bureaux-casablanca.html">caméra surveillance Bureaux</a>
 						</div>
 					</div>
 				</div>
@@ -828,8 +828,8 @@ function test_input($data)
 	<div class="copyright-area">
 		<div class="container">
 			<div id="copyright">
-				<p> <i class="fa fa-copyright"></i> 2016 - ARA NETTOYAGE Copyright <i class="fa fa-copyright"></i> <span
-						class="color-text"> ARA NETTOYAGE 2010.</span>
+				<p> <i class="fa fa-copyright"></i> 2016 - ARA SURVEILLANCE Copyright <i class="fa fa-copyright"></i> <span
+						class="color-text"> ARA SURVEILLANCE 2010.</span>
 				</p>
 			</div>
 		</div>
