@@ -1,0 +1,121 @@
+[06-Mar-2024 08:13:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'un appartement pour location professionnel')' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
+[07-Mar-2024 23:54:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?n tum ozelliklerinden tam olarak yararlanabilmek icin, oyuncular?n hesaplar?...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[09-Mar-2024 14:56:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'l?k bir bahis oynarsa, sadece 60$'? bahis sartlar?na say?lacakt?r. Bahis k?s?...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[10-Mar-2024 08:56:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'de Bahis</h2> 
+<p>BaЕџarД± Bet Casino, futboldan kriket ve eSp...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[15-Mar-2024 05:44:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't send funds, gratify don't erase this message or send it to SPAM. Please for...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[28-Mar-2024 02:27:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 're a beginner or an experienced kitesurfer, Algarve Kite Center has something...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[31-Mar-2024 14:41:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'intégralité de notre maison (un salon/salle à manger, 5 chambres, un...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
+[06-May-2024 11:12:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'appartement de 60m².
+
+Merci par avance.')' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
+[08-May-2024 00:17:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 're a beginner or an experienced kitesurfer, Algarve Kite Center has something...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[05-Jun-2024 23:45:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'un devis. Je suis en France veuillez me contactez par mail ou whatsapp si s'e...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
+[13-Jun-2024 11:55:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ю у за�\0081новника проект...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[23-Jun-2024 20:05:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's departmental position, which initiated the attack on the cooperative in the...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[24-Jun-2024 03:40:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's 83-year-old father, a pensioner. 
+ 
+The criminal case being considered by...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[24-Jun-2024 11:14:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ai besoin d'un nettoyage régulier des vitres de mon appartement. Pouvez vo...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[24-Jul-2024 17:53:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'un appartement vide de 150 M2')' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
+[04-Aug-2024 12:20:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't hasitate to conatct us.')' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[04-Aug-2024 20:39:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't hesiate to conatct us.')' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[05-Aug-2024 14:42:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'emploi ','Monsieur,madame :
+J'ai l'honneur de vous envoyer ma candidature au...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[19-Aug-2024 16:06:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'une femme de ménage, (prestation incluant les consommables, pour assurer l...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[22-Sep-2024 07:44:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's use of psychophysical weapons in the province of Khuzestan. These technolog...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[26-Sep-2024 08:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's intelligence service, and Alireza Jamshidi, deputy defense minister. Both w...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[27-Oct-2024 07:22:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 're a beginner or an experienced kitesurfer, Algarve Kite Center has something...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php:595
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php(595): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/contact.php on line 595
+[20-Nov-2024 17:20:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ouverture d'une unité hotelière de 50 chambres à casablanca et souha...' at line 1 in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php:594
+Stack trace:
+#0 /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php(594): mysqli_query(Object(mysqli), 'INSERT INTO con...')
+#1 {main}
+  thrown in /home/nettoyagecasabla/nettoyage-casablanca.net/demandez-devis.php on line 594
