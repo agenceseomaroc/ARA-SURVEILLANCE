@@ -127,7 +127,7 @@
 						<div class="call-to-action">
 							<p><i class="fa-solid fa-location-dot"></i>Société de caméra surveillance Casablanca Maroc</p>
 							<p><i class="fa-solid fa-envelope"></i> <a
-									href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a>
+									href="mailto:ara.camerasurveillance.maroc@gmail.com">ara.camerasurveillance.maroc@gmail.com</a>
 							</p>
 							<p><i class="fa-solid fa-mobile"></i><a href="tel:+212666282962">+212 666 282 962</a>
 							</p class="fa-solid fa-location-dot">
@@ -687,7 +687,7 @@ function test_input($data)
 								<p>
 									<i class="fas fa-envelope mr-2"></i>
 									Email:<a
-										href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a>
+										href="mailto:ara.camerasurveillance.maroc@gmail.com">ara.camerasurveillance.maroc@gmail.com</a>
 								</p>
 							</li>
 						</ul>
@@ -751,7 +751,7 @@ function test_input($data)
 	<div class="row" id="contacts">
 		<div class="col-sm-12">
 			<ul class="contact-list">
-				<li><a href="mailto:ara.camera surveillance.maroc@gmail.com"><img src="imagesBlog/courrier.webp" width="auto"
+				<li><a href="mailto:ara.camerasurveillance.maroc@gmail.com"><img src="imagesBlog/courrier.webp" width="auto"
 							height="auto" alt="Demander un devis de ARA SURVEILLANCE"></a></li>
 				<li><a class="text-dark" href="tel:+212666282962"><img src="imagesBlog/phone-call.webp" width="auto"
 							height="auto" alt="ARA SURVEILLANCE TEL"></a></li>
@@ -802,7 +802,7 @@ function test_input($data)
 							
 							Adresse 1 : 3ème étage, 10 Bd de la Liberté, Casablanca 20000. </strong><br>
 							
-							Email: <a href="mailto:ara.camera surveillance.maroc@gmail.com">ara.caméra surveillance.maroc@gmail.com</a> </strong><br>
+							Email: <a href="mailto:ara.camerasurveillance.maroc@gmail.com">ara.camerasurveillance.maroc@gmail.com</a> </strong><br>
 							<br>
 							<a href="societe-caméra surveillance-entretien-sol-casablanca.html">caméra surveillance de Sols </a>-
 							<a href="societe-caméra surveillance-poncage-cristallisation-marbres-casablanca.html">Cristallisation
